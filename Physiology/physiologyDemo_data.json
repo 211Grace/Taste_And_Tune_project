@@ -1,0 +1,20 @@
+{
+"funFacts": [
+    "Dark chocolate boosts serotonin, improving mood.",
+    "Bananas contain tryptophan, which helps you relax.",
+    "Spicy foods can increase your heart rate slightly.",
+    "Green tea improves focus and reduces stress."
+  ],
+  "quizQuestions": [
+    {
+      "question": "What does eating bananas do?",
+      "options": ["Boost energy", "Calm mood", "Increase heart rate"],
+      "correct": 1
+    },
+    {
+      "question": "What effect does spicy food have?",
+      "options": ["Reduce stress", "Increase heart rate", "Boost serotonin"],
+      "correct": 1
+    }
+  ]
+}

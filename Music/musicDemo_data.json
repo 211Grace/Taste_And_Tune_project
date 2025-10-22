@@ -1,0 +1,18 @@
+{
+  "playlists": [
+    {
+      "mood": "Spicy",
+      "tracks": [
+        {"title": "Hot Stuff", "artist": "Donna Summer", "url": "https://example.com/hotstuff"},
+        {"title": "Firestarter", "artist": "The Prodigy", "url": "https://example.com/firestarter"}
+      ]
+    },
+    {
+      "mood": "Sweet",
+      "tracks": [
+        {"title": "Sugar", "artist": "Maroon 5", "url": "https://example.com/sugar"},
+        {"title": "Sweetest Thing", "artist": "U2", "url": "https://example.com/sweetest"}
+      ]
+    }
+  ]
+}

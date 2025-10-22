@@ -1,0 +1,11 @@
+{
+  "budgetTracker": [
+    {"event": "Dinner Party", "budget": 50, "spent": 42},
+    {"event": "Music-Themed Brunch", "budget": 30, "spent": 28}
+  ],
+  "costComparison": [
+    {"cuisine": "Italian", "avgCost": 15},
+    {"cuisine": "Thai", "avgCost": 12},
+    {"cuisine": "Fusion", "avgCost": 18}
+  ]
+}
